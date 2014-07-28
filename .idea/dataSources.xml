@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="30429003">
+  <component name="DataSourceManagerImpl" format="xml" hash="625803251">
     <data-source source="LOCAL" name="Rails BusbySpeed: development" uuid="0d1e7aa2-5df0-4930-9436-3cb389def76d">
       <driver-ref>sqlite.xerial</driver-ref>
-      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/db/development.sqlite3</jdbc-url>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:db/development</jdbc-url>
       <libraries />
     </data-source>
     <data-source source="LOCAL" name="Rails BusbySpeed: production" uuid="72519bb5-549b-4c2a-8212-9e3b67a75cbd">
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql:db/production</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails BusbySpeed: test" uuid="77ddc56c-991c-45a2-92f6-8912886408ea">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:db/test</jdbc-url>
       <libraries />
     </data-source>
   </component>

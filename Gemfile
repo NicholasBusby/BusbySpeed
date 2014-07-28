@@ -7,16 +7,8 @@ gem 'coffee-rails', '~> 4.0.0'
 gem 'jquery-rails'
 gem 'jbuilder', '~> 2.0'
 gem 'haml', '~>4.0.0'
+gem 'pg'
 gem 'compass-rails'
 gem 'foundation-rails'
 gem 'sdoc', '~> 0.4.0',          group: :doc
-gem 'spring',
-
-    group: :development
-gem 'sqlite3',
-
-    group: :test
-gem 'sqlite3',
-
-group: :production
-gem 'pg'
+gem 'spring'
