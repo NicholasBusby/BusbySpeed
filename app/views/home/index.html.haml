@@ -12,36 +12,9 @@
             %h6 shopping cart
       .large-8.columns
         .row
-          .large-4.small-6.columns
-            %img{src: "http://placehold.it/1000x1000&text=Thumbnail"}/
-            .panel
-              %h5 Item Name
-              %h6.subheader $000.00
-          .large-4.small-6.columns
-            %img{src: "http://placehold.it/500x500&text=Thumbnail"}/
-            .panel
-              %h5 Item Name
-              %h6.subheader $000.00
-          .large-4.small-6.columns
-            %img{src: "http://placehold.it/500x500&text=Thumbnail"}/
-            .panel
-              %h5 Item Name
-              %h6.subheader $000.00
-          .large-4.small-6.columns
-            %img{src: "http://placehold.it/500x500&text=Thumbnail"}/
-            .panel
-              %h5 Item Name
-              %h6.subheader $000.00
-          .large-4.small-6.columns
-            %img{src: "http://placehold.it/500x500&text=Thumbnail"}/
-            .panel
-              %h5 Item Name
-              %h6.subheader $000.00
-          .large-4.small-6.columns
-            %img{src: "http://placehold.it/500x500&text=Thumbnail"}/
-            .panel
-              %h5 Item Name
-              %h6.subheader $000.00
+          %h4 Featured products
+        .row
+          =render template: 'products/normal_product', items: @products
         .row
           .large-12.columns
             .panel

@@ -12,3 +12,11 @@ gem 'compass-rails'
 gem 'foundation-rails'
 gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring'
+
+group :development do
+  gem 'better_errors'
+  gem 'binding_of_caller'
+  gem 'quiet_assets'
+  gem 'parallel_tests'
+  gem 'pry-remote', '~> 0.1'
+end
