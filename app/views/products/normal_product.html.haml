@@ -1,6 +1,6 @@
 - @products.each do |product|
   .large-4.small-6.columns.end
-    %img{src: "http://placehold.it/1000x1000&text=Thumbnail"}/
+    %img{src: product[1].image.to_s}/
     .panel
       %h5 #{product[1].name}
       %h6.subheader $#{number_with_precision(product[1].sale_price, :precision => 2)}
