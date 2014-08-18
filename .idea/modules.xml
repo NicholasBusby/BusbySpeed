@@ -3,9 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/BusbySpeed.iml" filepath="$PROJECT_DIR$/.idea/BusbySpeed.iml" />
+      <module fileurl="file://$USER_HOME$/BuzzbeeSpeedAPI/.idea/BuzzbeeSpeedAPI.iml" filepath="$USER_HOME$/BuzzbeeSpeedAPI/.idea/BuzzbeeSpeedAPI.iml" />
+      <module fileurl="file://$USER_HOME$/BuzzbeeSpeedAPI/.idea/BuzzbeeSpeedAPI.iml" filepath="$USER_HOME$/BuzzbeeSpeedAPI/.idea/BuzzbeeSpeedAPI.iml" />
       <module fileurl="file://$USER_HOME$/CB-Mobile/.idea/CB-Mobile.iml" filepath="$USER_HOME$/CB-Mobile/.idea/CB-Mobile.iml" />
       <module fileurl="file://$USER_HOME$/consumer-domain/.idea/consumer-domain.iml" filepath="$USER_HOME$/consumer-domain/.idea/consumer-domain.iml" />
       <module fileurl="file://$USER_HOME$/ruby-cb-api/.idea/ruby-cb-api.iml" filepath="$USER_HOME$/ruby-cb-api/.idea/ruby-cb-api.iml" />
+      <module fileurl="file://$USER_HOME$/ruby-cb-api-internal/.idea/ruby-cb-api-internal.iml" filepath="$USER_HOME$/ruby-cb-api-internal/.idea/ruby-cb-api-internal.iml" />
     </modules>
   </component>
 </project>

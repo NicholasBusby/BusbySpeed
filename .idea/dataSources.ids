@@ -9,4 +9,16 @@
   <data-source source="LOCAL" name="Rails BusbySpeed: test" uuid="77ddc56c-991c-45a2-92f6-8912886408ea">
     <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
   </data-source>
+  <data-source source="LOCAL" name="Rails BuzzbeeSpeedAPI: development" uuid="82857bda-7f4d-4e6a-b401-08352278eab3">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails BuzzbeeSpeedAPI: test" uuid="79a73eaa-99b0-40d6-805f-b2bbd6f61f88">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails BuzzbeeSpeedAPI: production" uuid="2bca2511-438d-465c-970b-a669d66193b6">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails BuzzbeeSpeedAPI: dev" uuid="e22866cd-1360-4f0a-bb92-3b34a65656b7">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
 </component>
