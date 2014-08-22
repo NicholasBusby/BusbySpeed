@@ -3,6 +3,19 @@
   <component name="ChangeListManager">
     <list default="true" id="41fe28c7-629f-4418-af6b-d75fd7d2fe43" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/consumer-domain/lib/models/recommended_job.rb" />
+      <change type="DELETED" beforePath="$USER_HOME$/BuzzbeeSpeedAPI/test/controllers/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/BuzzbeeSpeedAPI/test/fixtures/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/BuzzbeeSpeedAPI/test/fixtures/products.yml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/BuzzbeeSpeedAPI/test/fixtures/tests.yml" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/BuzzbeeSpeedAPI/test/helpers/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/BuzzbeeSpeedAPI/test/integration/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/BuzzbeeSpeedAPI/test/mailers/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/BuzzbeeSpeedAPI/test/models/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/BuzzbeeSpeedAPI/test/models/product_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/BuzzbeeSpeedAPI/test/models/test_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/BuzzbeeSpeedAPI/test/test_helper.rb" afterPath="" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/BuzzbeeSpeedAPI/Gemfile.lock" afterPath="$USER_HOME$/BuzzbeeSpeedAPI/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/BuzzbeeSpeedAPI/Gemfile" afterPath="$USER_HOME$/BuzzbeeSpeedAPI/Gemfile" />
     </list>
     <ignored path="BusbySpeed.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,126 +53,38 @@
     <favorites_list name="BusbySpeed" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
-      <split-first>
-        <leaf>
-          <file leaf-file-name="products_controller.rb" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$USER_HOME$/BuzzbeeSpeedAPI/app/controllers/products_controller.rb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
-                  <caret line="27" column="3" selection-start-line="27" selection-start-column="3" selection-end-line="27" selection-end-column="3" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="recommendation.rb" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$USER_HOME$/ruby-cb-api/lib/cb/clients/recommendation.rb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="944" max-vertical-offset="1740">
-                  <caret line="75" column="28" selection-start-line="75" selection-start-column="28" selection-end-line="75" selection-end-column="28" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="recommendations.rb" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$USER_HOME$/ruby-cb-api/lib/cb/responses/Recommendation/recommendations.rb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
-                  <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="jobs_controller.rb" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$USER_HOME$/consumer-domain/app/controllers/jobs_controller.rb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="465">
-                  <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="job_results_procedure.rb" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$USER_HOME$/consumer-domain/app/procedures/job_results_procedure.rb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="1140">
-                  <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="job_search_service.rb" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$USER_HOME$/consumer-domain/lib/services/job_search_service.rb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
-                  <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="saved_jobs_service.rb" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$USER_HOME$/consumer-domain/lib/services/saved_jobs_service.rb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="750">
-                  <caret line="35" column="44" selection-start-line="35" selection-start-column="44" selection-end-line="35" selection-end-column="44" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="saved_jobs.rb" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$USER_HOME$/consumer-domain/lib/services/adapters/cb_api/saved_jobs.rb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.6090909" vertical-offset="1697" max-vertical-offset="2160">
-                  <caret line="131" column="34" selection-start-line="131" selection-start-column="34" selection-end-line="131" selection-end-column="34" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="saved_job.rb" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$USER_HOME$/consumer-domain/lib/services/converters/cb_api/saved_job.rb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="100" max-vertical-offset="660">
-                  <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="recommendation_spec.rb" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$USER_HOME$/ruby-cb-api/spec/cb/clients/recommendation_spec.rb">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0" vertical-offset="895" max-vertical-offset="1440">
-                  <caret line="82" column="44" selection-start-line="82" selection-start-column="44" selection-end-line="82" selection-end-column="44" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/Gemfile">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.4597701" vertical-offset="0" max-vertical-offset="522">
-                  <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="20" selection-end-column="28" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/CB-Mobile/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="990">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$USER_HOME$/BuzzbeeSpeedAPI/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.57471263" vertical-offset="0" max-vertical-offset="522">
+              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -167,7 +92,7 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/consumer-domain" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/BuzzbeeSpeedAPI" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
@@ -187,7 +112,6 @@
         <option value="$USER_HOME$/CB-Mobile/spec/features/recommendations/recommendations_spec.rb" />
         <option value="$USER_HOME$/CB-Mobile/config/initializers/cb_api.rb" />
         <option value="$PROJECT_DIR$/app/controllers/Products/Product.rb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/views/Products/normal_product.html.haml" />
         <option value="$PROJECT_DIR$/app/views/home/index.html.haml" />
         <option value="$PROJECT_DIR$/app/views/products/normal_product.html.haml" />
@@ -218,11 +142,12 @@
         <option value="$USER_HOME$/BuzzbeeSpeedAPI/.gitignore" />
         <option value="$USER_HOME$/BuzzbeeSpeedAPI/config/routes.rb" />
         <option value="$USER_HOME$/BuzzbeeSpeedAPI/config/database.yml" />
-        <option value="$USER_HOME$/BuzzbeeSpeedAPI/Gemfile" />
         <option value="$USER_HOME$/BuzzbeeSpeedAPI/app/models/test/test.rb" />
         <option value="$USER_HOME$/BuzzbeeSpeedAPI/app/models/test.rb" />
         <option value="$USER_HOME$/BuzzbeeSpeedAPI/db/migrate/20140815234707_create_products.rb" />
         <option value="$USER_HOME$/BuzzbeeSpeedAPI/app/controllers/products_controller.rb" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$USER_HOME$/BuzzbeeSpeedAPI/Gemfile" />
       </list>
     </option>
   </component>
@@ -270,6 +195,36 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="BusbySpeed" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BusbySpeed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CB-Mobile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BusbySpeed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BuzzbeeSpeedAPI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BusbySpeed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BusbySpeed" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -611,7 +566,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1440" height="841" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32844934" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -619,7 +574,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -664,13 +619,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/ruby-cb-api/lib/cb/models/implementations/collapsed_jobs.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5660377" vertical-offset="0" max-vertical-offset="630">
-          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/ruby-cb-api/spec/cb/clients/saved_search_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="1920">
@@ -897,14 +845,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4597701" vertical-offset="0" max-vertical-offset="522">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="20" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/BuzzbeeSpeedAPI/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.40123457" vertical-offset="0" max-vertical-offset="510">
@@ -961,14 +901,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/BuzzbeeSpeedAPI/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6321839" vertical-offset="0" max-vertical-offset="522">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.rbenv/versions/1.9.3-p545/lib/ruby/gems/1.9.1/gems/activerecord-4.1.4/lib/active_record/persistence.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33202356" vertical-offset="251" max-vertical-offset="7785">
@@ -995,7 +927,7 @@
     </entry>
     <entry file="file://$USER_HOME$/ruby-cb-api/spec/cb/clients/recommendation_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="895" max-vertical-offset="1440">
+        <state vertical-scroll-proportion="0.65815324" vertical-offset="895" max-vertical-offset="1440">
           <caret line="82" column="44" selection-start-line="82" selection-start-column="44" selection-end-line="82" selection-end-column="44" />
           <folding />
         </state>
@@ -1043,7 +975,7 @@
     </entry>
     <entry file="file://$USER_HOME$/consumer-domain/lib/services/converters/cb_api/saved_job.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="100" max-vertical-offset="660">
+        <state vertical-scroll-proportion="0.21611002" vertical-offset="100" max-vertical-offset="660">
           <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
           <folding />
         </state>
@@ -1051,8 +983,32 @@
     </entry>
     <entry file="file://$USER_HOME$/consumer-domain/lib/services/adapters/cb_api/saved_jobs.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6090909" vertical-offset="1697" max-vertical-offset="2160">
+        <state vertical-scroll-proportion="0.61689585" vertical-offset="1651" max-vertical-offset="2160">
           <caret line="131" column="34" selection-start-line="131" selection-start-column="34" selection-end-line="131" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/CB-Mobile/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="990">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/BuzzbeeSpeedAPI/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.57471263" vertical-offset="0" max-vertical-offset="522">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
           <folding />
         </state>
       </provider>
