@@ -1,14 +1,19 @@
 module Products
   class Product
-    attr_accessor :price, :name, :cost, :sale_price, :image, :on_sale, :featured
-    def initialize(price, name, cost, sale_price, image, on_sale, featured)
-      @price = price
+    attr_accessor :id, :name, :company_id, :price, :cost, :msrp, :bin_location, :status, :details,
+                  :tags, :quantity, :created_at, :updated_at
+    def initialize(id, name, company_id, price, cost, msrp, bin_location, status, details, tags, quantity)
+      @id = id
       @name = name
+      @company_id = company_id
+      @price = price
       @cost = cost
-      @sale_price = sale_price
-      @image = image
-      @on_sale = on_sale
-      @featured = featured
+      @msrp = msrp
+      @bin_location = bin_location
+      @status = status
+      @details = details
+      @tags = tags
+      @quantity = quantity
     end
   end
 end

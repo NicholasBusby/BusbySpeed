@@ -1,6 +1,6 @@
 - @products.each do |product|
   .large-4.small-6.columns.end
-    %img{src: product[1].image.to_s}/
+    %img{src: 'http://lorempixel.com/200/200/transport/'}/
     .panel
       %h5 #{product[1].name}
-      %h6.subheader $#{number_with_precision(product[1].sale_price, :precision => 2)}
+      %h6.subheader $#{number_with_precision(product[1].price, :precision => 2)}

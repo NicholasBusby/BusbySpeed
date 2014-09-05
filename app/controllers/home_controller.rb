@@ -12,8 +12,8 @@ class HomeController < ApplicationController
   end
 
   def make_product(key)
-    {key => Products::Product.new(123.00*key, "item#{key}", 345.00*key, 122.00*key,
-                                  'http://lorempixel.com/200/200/transport')}
+    {key => Products::Product.new(key, "name", 1, 123.3*key,
+      120*key, 125*key, 'ATL-AA-01', 'active', 'yes', 'tag', 3)}
   end
 
 end
