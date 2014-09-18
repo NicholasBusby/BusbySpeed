@@ -4,16 +4,15 @@ class HomeController < ApplicationController
   end
 
   def get_products
-    items = Hash.new()
-    for i in 0..6
-      items = items.merge(make_product i)
-    end
-    items
+    get_product_list
   end
 
-  def make_product(key)
-    {key => Products::Product.new(key, "name", 1, 123.3*key,
-      120*key, 125*key, 'ATL-AA-01', 'active', 'yes', 'tag', 3)}
+  def get_product_list
+    products_api.get_products_list
+  end
+
+  def products_api
+    ProductsHelper.new()
   end
 
 end

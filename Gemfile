@@ -9,7 +9,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'haml', '~>4.0.0'
 gem 'pg'
 gem 'compass-rails'
-gem 'foundation-rails'
+gem 'foundation-rails', '~> 5.3.1.0'
 gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring'
 
