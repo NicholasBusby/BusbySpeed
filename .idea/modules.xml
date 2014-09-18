@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/BusbySpeed.iml" filepath="$PROJECT_DIR$/.idea/BusbySpeed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/BuzzbeeSpeed.iml" filepath="$PROJECT_DIR$/.idea/BuzzbeeSpeed.iml" />
       <module fileurl="file://$USER_HOME$/BuzzbeeSpeedAPI/.idea/BuzzbeeSpeedAPI.iml" filepath="$USER_HOME$/BuzzbeeSpeedAPI/.idea/BuzzbeeSpeedAPI.iml" />
       <module fileurl="file://$USER_HOME$/CB-Mobile/.idea/CB-Mobile.iml" filepath="$USER_HOME$/CB-Mobile/.idea/CB-Mobile.iml" />
       <module fileurl="file://$USER_HOME$/consumer-domain/.idea/consumer-domain.iml" filepath="$USER_HOME$/consumer-domain/.idea/consumer-domain.iml" />
