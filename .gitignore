@@ -17,9 +17,25 @@
 /bin
 /coverage
 
-/.idea
-/.idea/*
-.idea/*
+.idea
+.idea/.DS_Store
+.idea/.generators
+.idea/.name
+.idea/.rakeTasks
+.idea/my-project.iml
+.idea/dataSources.ids
+.idea/dataSources.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/scopes
+.idea/scopes/scope_settings.xml
+.idea/vcs.xml
+.idea/workspace.xml
+/.idea/workspace.xml
+/.idea/tasks.xml
+.DS_Store
+.iml
 
 .env
 .DS_Store
